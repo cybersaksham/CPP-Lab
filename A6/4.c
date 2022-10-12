@@ -44,7 +44,7 @@ int main() {
 					full = 0;
 					if(start == end) empty = 1;
 				}
-				//sleep(1);
+				sleep(1);
 			}
 		}
 	}
